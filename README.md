@@ -8,10 +8,7 @@ This repository contains the implementation code for the paper **"Deep learning-
 This study proposes a deep learning-based model for rice seed variety classification using hyperspectral imaging, which captures spectral and texture features to achieve high-accuracy identification of different rice varieties.
 
 ## 💾 数据集获取 | Dataset Access
-由于数据隐私与体积限制，完整的高光谱数据集暂不公开。  
 如需使用完整数据集，请联系作者团队获取授权。  
-Due to privacy and size limitations, the complete hyperspectral dataset is not publicly available.  
 Please contact the author team for dataset access.
-
 
 ✨ *If you find this work helpful, please consider citing our paper.*
